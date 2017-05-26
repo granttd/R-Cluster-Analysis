@@ -1,4 +1,4 @@
-helper.function <- function()
+SquareIt <- function(InputNum)
 {
-  return(1)
+  return(InputNum^2)
 }
